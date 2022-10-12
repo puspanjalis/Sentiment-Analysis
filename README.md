@@ -110,6 +110,11 @@ To Summarize, Sentiment analysis is a great way to understand the opinion or fee
 
 ## List of Experiments in Sentiment Analysis: 
 
-- [Detect Emotions from Data] ()
+- [Detect Emotions from Data](https://github.com/puspanjalis/Sentiment-Analysis/tree/main/Detect%20Emotions%20from%20Data)
+- [Customer Sentiment Analysis](https://github.com/puspanjalis/Sentiment-Analysis/tree/main/Customer%20Sentiment%20Analysis)
+- [Ukraine Russia War Twitter Sentiment Analysis](https://github.com/puspanjalis/Sentiment-Analysis/tree/main/Ukraine%20Russia%20War%20Twitter%20Sentiment%20Analysis)
+- [Sentiment Analysis using Lexicon and Machine-Learning Based Methods](https://github.com/puspanjalis/Sentiment-Analysis/tree/main/Sentiment%20Analysis%20using%20Lexicon%20and%20Machine-Learning%20Based%20Methods)
 
-Let me know if you have any questions. We can connect on LinkedIn : (https://www.linkedin.com/in/puspanjalisarma/)
+## Get in Touch with me: 
+
+Let me know if you have any questions. We can connect on [LinkedIn](https://www.linkedin.com/in/puspanjalisarma/)
